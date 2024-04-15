@@ -51,6 +51,7 @@
 102,643,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 104,648,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 105,652,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
+109,682,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 106,689,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 108,733,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 6,NA,"SG-0613BB000613",NA,NA,19,20,"find_tags_motus","burst_slop",10,"higher time variance due to frequency switching?"
