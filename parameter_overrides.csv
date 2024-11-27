@@ -50,6 +50,7 @@
 101,591,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",151.496,"default project frequency"
 102,643,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 104,648,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
+114,652,"CTT-V30B0154C55F",NA,1730988000,NA,NA,"find_tags_motus","min_dfreq",0,"receiver was tuned incorrectly during this period"
 105,652,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 109,682,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 106,689,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
