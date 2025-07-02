@@ -60,6 +60,7 @@
 113,874,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 117,913,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 118,996,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
+119,1009,NA,NA,NA,NA,NA,"find_tags_motus","default_freq",150.096,"default project frequency"
 100,NA,"CTT-8EF1CB0D3FAC",1631678400,NA,NA,NA,"find_tags_motus","default_freq",150.096,"buoy in the Mediterranean, tested in Massachusetts"
 103,NA,"CTT-V3023D0DEA3D",1686787200,NA,NA,NA,"find_tags_motus","default_freq",150.096,"buoy in the North Sea, tested in Massachusetts"
 114,NA,"CTT-V30B0154C55F",NA,1730988000,NA,NA,"find_tags_motus","min_dfreq",0,"receiver was tuned incorrectly during this period"
